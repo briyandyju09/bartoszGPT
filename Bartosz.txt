@@ -1,0 +1,348 @@
+﻿Bartosz’s Help replies
+
+
+Question: Is it possible for us to delete some sessions? I have some that I want to delete because I forgot to do anything in them and they are single (I have one with a security system for example I want to get rid of, it confuses me and stuff) : 
+
+
+Bartosz: Yes, Just make a scrapbook post with title like ‘please reject these sessions’
+
+
+Question: If we have a working, deployed website that we link in the read me we don't need a walkthrough video right?:
+
+
+Bartosz: Please provide at least a screenshot
+
+
+Question: i bought some OpenAI credits, I sent my verification ID, there has been no response regarding the verification can some please help:
+
+
+Bartosz: Please put a message in #arcade-help
+
+
+Question: can i use github copilot for comments and basic code completions?:
+
+
+Bartosz: Yes, but mention it in your session, scrapbook post or in readme
+
+
+Question: Can I get verified? Im not sure if my sessions or working or if my account is even verified?: 
+
+
+Bartosz: If your account is active so your sessions should work properly!
+
+
+Question: I did a session on a project I was working on, and I dont know if the session is over and I only put one scrap about halfway through?:
+
+Bartosz: Sessions are one hour long - there is a counter at the top, if it doesn't show any time, you're done, post scraps at the end or mini-scraps in the middle if you want too
+
+
+Question: what do I do with my scraps?:
+
+Bartosz: You should work on making projects. Use /arcade in #arcade Then at the end of session in #arcade in your session's thread, post the github commit link with the changes you've made while this session lasted. You can also post some photos or other things along the way. Do that for every session you need to finish the project. (Commits links are MUST)
+If you finally reach a milestone or complete the project, post a quick description, maybe some demo and a github repository in #scrapbook You will then get a DM where you will choose your sessions. Then you must wait for some time, to get reviewed you will then earn the tickets.
+
+
+
+
+Question: why is the shop link not loading?:
+
+
+Bartosz: Can you enter normal hack club site? and wackclub works right?
+
+
+Question: do posts in #ship count for tickets?:
+
+
+Bartosz: Better stick with #scrapbook and later show off in #ship
+
+
+Question: Just a quick question that I have started my session 10 hours ago and completed it but didn't submit git links and all can I submit now ?? Will it be validated?:
+
+
+Bartosz: Just post commit now, and inform about it. If you worked during your session - it is fine
+
+
+Question: How do I know which scrapbook post has been reviewed?:
+
+
+Bartosz: If you didn't get a message, please write /shop and check your sessions, you can diffirentiate the scrapbook based on session time and its name
+
+
+Question: Is bot down?: is the bot dead again?:
+
+
+Bartosz: GUYS BOT IS DOWN. Please be patient and check https://status.hackclub.com/?duration=1d for status.
+Bartosz: Also if you are in a session - Hakkuun stops counting time and will resume counting it when going up. Please post your commit early if you want - when an hour should have passed, and inform about it in your session thread. Then wait for it to end. Don't click end early button, as we won't be able to give you full credits
+
+
+
+
+Question: Will presentation or excel databases work in arcade?:
+
+
+Bartosz: Both work, just make sure to upload github commits, And watch out for databases, because research - copywriting doesn't count so stick with presentations if you can
+
+
+Question: can i post as projects tests for previous programs?:
+
+
+Bartosz: Yep, but each test counts as project update, so if you had 4 projects, you must make 4 different scrapbooks
+
+
+Question: i want to delete my sesions because all are useless how to do that?:
+
+
+Bartosz: Post a scrapbook with title - please reject these, just make a scrapbook that has only the useless sessions
+
+
+
+
+Question: How does an individual become a reviewer?: How to become a reviewer?:
+
+
+Bartosz: Fill out the form in #special-activities-division look in the pins, they onboard reviewers as needed, so it can take some time
+
+
+Question: Can we have arcade sessions for solving leetcode?: Does solving leetcode count?:
+
+
+Bartosz: No, As it isn't a creative project, it is problem solving. The purpose of arcade it to be actively building something that others can experience, which is why doing challenges or problems like leetcode isn't allowed
+
+
+Question: I still haven't received the stickers I ordered during the arcade tutorial a month ago, can I check if they were shipped?:
+
+
+Bartosz: Yep after 6 weeks or so, you can ask for another ones if you didn't get them - as I hear
+
+
+Question: Is it only the orders over 100 tickets for which you need to go through the video call and rereview process?:
+
+
+Bartosz: 70+ I guess 
+
+
+Question: would making Roblox games count for arcade ?:
+
+
+Bartosz: Yes!, Make sure to upload github commits of your entire project though, Use git as roblox has many files.
+
+
+Question: Do we have to post the commit only in arcade sessions?:
+
+
+Bartosz: Yes, at least one commit at the end if your project is more than 1 session long, if it is shorter, please make mini-scraps.
+
+
+
+
+Question: Who’s in charge of iPad orders? And what’s the average delivery time if it’s engraved?:
+
+
+Bartosz: I believe @/mel is incharge of ipad orders
+
+
+Question: It's been ___ days since my email about getting my open AI credits. How long does it normally take to get them?:
+
+
+Bartosz: It can take some time (I guess a week, up to two weeks), Just be patient please ; )
+
+
+
+
+
+
+Question: Is there a way I can link a scrapbook post to all hours from a specific goal for Arcade?:
+
+
+Bartosz: Just create a scrapbook by the session names manually. remember that it needs to be shipped (experienceable in some way to others and have a readme).
+
+
+Question: Link to the constitution?: FAQ?: Rules?:
+
+
+Bartosz: https://github.com/hackclub/arcade-constitution
+
+
+Question: will there be other events like this in the future?:
+
+
+Bartosz: There will be other events, but similiar? We will see. just stay tuned and make amazing projects while waiting!
+
+
+Question: does /sessions no longer exist?
+
+
+Bartosz: No, write /arcade for new session and /shop to view all of yours. This is it for now ; p
+
+
+
+
+Question: If I create a website that has no functionality (i.e. it's just design), is that a valid reason to buy a ticket?:
+
+
+Bartosz: Yes, you need to have it shipped properly tho, in case of design - photos and link to figma will do. Or if it is css and html - host it, read this for more info: https://github.com/hackclub/arcade-constitution
+
+
+
+
+Question: Does someone have a hot to hard fun coding project i could do?:
+
+
+Bartosz: Hmmm… programming language! A open world game. Your own AI. A copy of some big  or small app, There is ton of projects!! ask in #lounge if you want more ideas ; )
+
+
+Question: can i spend tickets after 31 august?: Can I spend tickets after arcade?: Will the shop remain open?:
+
+
+Bartosz: Yes! Shop will remain open, reviewers will finish reviewing but you won't be able to log new sessions.
+
+
+Question: how many tickets do I get for one hour?:
+
+
+Bartosz: 1 ticket per hour!
+
+
+Question: can i add multiple commit in one session?
+
+
+Bartosz: Yup! Just post multiple links
+
+
+Question: do I have to setup poetry? isn't the requirements.txt enough?:
+
+
+Bartosz: It is enough! Just make sure to have a github release.
+
+
+Question: When will the new items arrive?:
+
+
+Bartosz: We don't know, probably near the end, Zach said there will be something new, but it may be not related to tickets...
+
+
+Question: can a ____ project count?: Can I get tickets for ____?: Can I earn tickets by ___?:
+
+
+Bartosz: If it is gitable then sure!
+
+
+Question: Do we have to post in scrapbook every single session or once all at a time ?:
+
+
+Bartosz: Once you ship your project, meaning once you complete it or reached a milestone, which allows user to experience it fully
+
+
+Question: Does arcade run only during the summer? Is arcade only for this month?:
+
+
+Bartosz: Yes, Arcade is a one-time event and won't happen again.
+
+
+Question: Is there any chance the ___ will be restocked?:
+
+
+Bartosz: Maybe, Maybe not. If the swag was donated the chances are low.
+
+
+Question: Why we dont use discord?:
+
+
+Bartosz: Slack has much better things, unlimited channels, everyone can add bots etc
+
+
+Question: How do I finish the tutorial with arcade bot?:
+
+
+Bartosz: Please complete the tutorial by writing /arcade in #arcade, then follow the steps
+After sending the screenshot, write /shop in any channel and spend at least 1 ticket.
+Then fill the form that you got in DMs from Arcadius, and later click the button.
+Welcome!
+
+
+Question: do we have to pay customs fee for stickers?:
+
+
+Bartosz: Prolly not cuz there isnt a place that has paid customs for stickers.
+
+
+Question: Do I have to spend 3 free tickets to go on?:
+
+
+Bartosz: Nope! You can spend only 1 to verify.
+
+
+Question: Is it possible to add new arcade hours to an already existing scrapbook post? or should I just repost the same project again?:
+
+
+Bartosz: Just make another scrapbook for this project, as an update!
+
+
+Does GitHub notebook have customs in ___?:
+
+
+Bartosz: It only ships to the US.
+
+
+Question: How many days does it takes to review the tickets?:
+
+
+Bartosz: there isn't really a max, but let's say 2 weeks probably?
+
+
+Question: how do i view my sessions?
+
+
+Bartosz: go to /shop and click on view sessions.
+
+
+Question: do pcbs have customs?
+
+
+Bartosz: Might have, depends on your country/vendor
+
+
+Question: anyone know how the custom domain works?
+
+
+Bartosz: They setup the domain and transfer it onto your Porkbun account
+
+
+Question: what’s porkbun?
+
+
+Bartosz: Domain management tool
+
+
+Question: How many sessions are required for a shipped project?
+
+
+Bartosz: 1 session is enough just make mini-scraps and ship it properly based on constitution
+
+
+Question: do you have any conversation starters?
+
+
+Bartosz: i just answer : P
+
+
+Question: 
+
+
+Bartosz: 
+
+
+
+
+
+
+Question: 
+
+
+Bartosz: 
+
+
+Question: 
+
+
+Bartosz:
